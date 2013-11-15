@@ -9,5 +9,7 @@ public class Main
 	{
 		System.out.print("Hello git!");
 	}
+	
+	влез кривыми руками
 
 }
